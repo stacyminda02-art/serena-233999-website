@@ -1,0 +1,16 @@
+.para3 {
+    color: purple;
+    text-decoration: underline;
+}
+
+.highlight3 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.building3 {
+    color: navy;
+    font-weight: bold;
+    text-transform: uppercase;
+}
